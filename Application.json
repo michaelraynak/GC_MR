@@ -1,0 +1,13 @@
+[
+  {
+    "accessRoles": [],
+    "applicationI18nFiles": [],
+    "applicationId": "f6e33415-ef75-4eaa-b814-473234a1952a",
+    "applicationName": "GC_MR",
+    "applicationState": "DRAFT",
+    "defaultBranch": "develop",
+    "gitUrl": "https://github.com/michaelraynak/GC_MR",
+    "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
+    "sections": []
+  }
+]
