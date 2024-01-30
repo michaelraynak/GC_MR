@@ -1,0 +1,21 @@
+[
+  {
+    "accessRoles": null,
+    "applicationId": "f6e33415-ef75-4eaa-b814-473234a1952a",
+    "applicationName": "GC_MR",
+    "applicationState": "DRAFT",
+    "defaultBranch": "develop",
+    "gitUrl": "https://github.com/michaelraynak/GC_MR",
+    "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
+    "sections": [
+      {
+        "accessRoles": null,
+        "privileges": null,
+        "name": "section1",
+        "icon": "Address Book",
+        "pageDefinitionId": "c5eb47aa-13ae-4b16-921f-b083cd96a038",
+        "sections": []
+      }
+    ]
+  }
+]
