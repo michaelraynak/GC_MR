@@ -7,6 +7,23 @@
     "defaultBranch": "develop",
     "gitUrl": "https://github.com/michaelraynak/GC_MR",
     "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
-    "sections": []
+    "sections": [
+      {
+        "accessRoles": null,
+        "privileges": null,
+        "name": "section1",
+        "icon": "Address Book",
+        "sections": [
+          {
+            "accessRoles": null,
+            "privileges": null,
+            "name": "section1",
+            "icon": "Address Book",
+            "pageDefinitionId": "44420161-92e2-42a1-b551-764f505fb453",
+            "sections": []
+          }
+        ]
+      }
+    ]
   }
 ]
