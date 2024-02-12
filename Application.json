@@ -9,20 +9,28 @@
     "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
     "sections": [
       {
-        "accessRoles": null,
-        "privileges": null,
         "name": "section1",
         "icon": "Address Book",
         "sections": [
           {
-            "accessRoles": null,
-            "privileges": null,
             "name": "section1",
             "icon": "Address Book",
             "pageDefinitionId": "44420161-92e2-42a1-b551-764f505fb453",
+            "sections": [],
+            "accessRoles": null,
+            "privileges": null
+          },
+          {
+            "accessRoles": null,
+            "privileges": null,
+            "name": "section2",
+            "icon": "Alert Filled Circle",
+            "pageDefinitionId": "5c21aa8e-3d20-4874-9a47-61865123eefb",
             "sections": []
           }
-        ]
+        ],
+        "accessRoles": null,
+        "privileges": null
       }
     ]
   }
