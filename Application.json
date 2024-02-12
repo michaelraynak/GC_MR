@@ -1,6 +1,6 @@
 [
   {
-    "accessRoles": null,
+    "accessRoles": [],
     "applicationId": "f6e33415-ef75-4eaa-b814-473234a1952a",
     "applicationName": "GC_MR",
     "applicationState": "DRAFT",
@@ -11,9 +11,9 @@
       {
         "accessRoles": null,
         "privileges": null,
-        "name": "section1",
+        "name": "section test 1",
         "icon": "Address Book",
-        "pageDefinitionId": "c5eb47aa-13ae-4b16-921f-b083cd96a038",
+        "pageDefinitionId": "41f9592d-cbc4-48e0-9b5b-cbef7225acda",
         "sections": []
       }
     ]

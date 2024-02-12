@@ -1,6 +1,6 @@
 {
   "description": null,
-  "pageDefinitionId": "c5eb47aa-13ae-4b16-921f-b083cd96a038",
+  "pageDefinitionId": "41f9592d-cbc4-48e0-9b5b-cbef7225acda",
   "pageSchema": {
     "properties": {},
     "controlSchema": {
@@ -10,6 +10,6 @@
       }
     }
   },
-  "title": "page1",
+  "title": "section page 1",
   "versionName": "1.0"
 }
