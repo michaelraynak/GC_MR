@@ -11,26 +11,10 @@
       {
         "accessRoles": null,
         "privileges": null,
-        "name": "section1",
-        "icon": "Address Book",
-        "sections": [
-          {
-            "accessRoles": null,
-            "privileges": null,
-            "name": "section2",
-            "icon": "Alert Circle",
-            "pageDefinitionId": "01aad94a-4046-4002-b92c-21d8f933ab8e",
-            "sections": []
-          },
-          {
-            "accessRoles": null,
-            "privileges": null,
-            "name": "section 3",
-            "icon": "Alert Circle",
-            "pageDefinitionId": "e7858be2-1757-43a1-b15e-43ae8e639f81",
-            "sections": []
-          }
-        ]
+        "name": "section2",
+        "icon": "Alert Circle",
+        "pageDefinitionId": "e90d292e-e12c-4e3b-b4f0-12c0da1cacaf",
+        "sections": []
       }
     ]
   }
